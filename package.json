@@ -1,0 +1,12 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "db mongo",
+  "main": "index.js",
+  "author": "Priscilla Abbam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
